@@ -2,7 +2,7 @@
  ### Installation 
  Download Practice folder to your project folder
  ###  Usage
-On the command terminal write 'python manage.py runserver'. Then copy the link to the web page and paste it into any browser. And then you can register and log in.
+On the command terminal write 'python manage.py runserver'. Then copy the link to the web page and paste it into any browser. And then you can register, log in and logout.
  ### Examples
 ![image](https://user-images.githubusercontent.com/74852501/150477493-e3018e7f-7fa0-470e-8d99-95fc083c667d.png)
  
