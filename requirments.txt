@@ -1,0 +1,5 @@
+# python of any version of python3 is required
+# Django 4.0.1
+use <pip install Django> to install
+# PostgreSQL
+use <pip install psycopg2> to install
