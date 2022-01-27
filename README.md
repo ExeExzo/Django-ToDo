@@ -2,7 +2,7 @@
  ### Installation 
  Download Practice folder to your project folder
  ###  Usage
-On the command terminal write 'python manage.py runserver'. Then copy the link to the web page and paste it into any browser. And then you can register, log in and logout.
+On the command terminal write 'python manage.py runserver'. Then copy the link to the web page and paste it with '/todos/list' into any browser. And then you can log in, register and logout.
  ### Examples
 ![image](https://user-images.githubusercontent.com/74852501/150477493-e3018e7f-7fa0-470e-8d99-95fc083c667d.png)
  
@@ -10,12 +10,12 @@ On the command terminal write 'python manage.py runserver'. Then copy the link t
  ``` python
  Main page:
  ```
- ![image](https://user-images.githubusercontent.com/74852501/150477631-a9164aca-0db0-46c0-be80-817c90096e83.png)
- ``` python
- Register:
- ```
- ![image](https://user-images.githubusercontent.com/74852501/150477779-44077e10-987a-437b-ac3e-a144383e7a7d.png)
+![image](https://user-images.githubusercontent.com/74852501/151338099-ebf9c0bd-d8f5-4345-aa41-ae4caf369d0f.png)
  ``` python
  Login:
  ```
- ![image](https://user-images.githubusercontent.com/74852501/150477817-b65f140d-304d-474a-8f74-44d6c2abd919.png)
+![image](https://user-images.githubusercontent.com/74852501/151338254-bfea5725-3e87-4f71-b905-cb7ac33ca06d.png)
+ ``` python
+ Register:
+ ```
+![image](https://user-images.githubusercontent.com/74852501/151338352-9b60e3ef-8fba-46ce-8909-80ed5256a5e8.png)
